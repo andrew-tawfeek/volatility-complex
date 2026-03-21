@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+networkx
+yfinance
+matplotlib
+seaborn
+
+# Topology
+gudhi
+
+# Notebooks
+jupyter
+ipykernel
+ipywidgets
